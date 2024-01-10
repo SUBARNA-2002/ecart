@@ -10,6 +10,7 @@ import {
   DialogHeader,
   DialogBody,
   DialogFooter,
+  Input,
 } from "@material-tailwind/react";
 function Cart() {
   const [open, setOpen] = React.useState(false);
@@ -253,7 +254,11 @@ function Cart() {
           unmount: { scale: 0.9, y: -100 },
         }}
       >
-        <DialogHeader>Its a simple dialog.</DialogHeader>
+        <DialogHeader>
+          <div>
+            <Input type="text"></Input>
+          </div>
+        </DialogHeader>
         <DialogBody>
           <div>this is form page</div>
         </DialogBody>
