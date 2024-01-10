@@ -13,7 +13,7 @@ import {
 } from "@material-tailwind/react";
 function Cart() {
   const [open, setOpen] = React.useState(false);
- 
+
   const handleOpen = () => setOpen(!open);
   const [cartdata, setCartdata] = useState([]);
   const [pid, setPid] = useState([]);
@@ -157,9 +157,7 @@ function Cart() {
                     </div>
                     <div className="mt-4 flex justify-between sm:space-y-6 sm:mt-0 sm:block sm:space-x-6">
                       <div className="flex items-center border-gray-100">
-                        <span
-                          className="cursor-pointer rounded-l bg-gray-100 py-1 px-3.5 duration-100 hover:bg-blue-500 hover:text-blue-50"
-                        >
+                        <span className="cursor-pointer rounded-l bg-gray-100 py-1 px-3.5 duration-100 hover:bg-blue-500 hover:text-blue-50">
                           {" "}
                           -{" "}
                         </span>
@@ -169,9 +167,7 @@ function Cart() {
                           defaultValue={item.quantity}
                           min={1}
                         />
-                        <span
-                          className="cursor-pointer rounded-r bg-gray-100 py-1 px-3 duration-100 hover:bg-blue-500 hover:text-blue-50"
-                        >
+                        <span className="cursor-pointer rounded-r bg-gray-100 py-1 px-3 duration-100 hover:bg-blue-500 hover:text-blue-50">
                           {" "}
                           +{" "}
                         </span>
@@ -259,10 +255,7 @@ function Cart() {
       >
         <DialogHeader>Its a simple dialog.</DialogHeader>
         <DialogBody>
-          The key to more success is to have a lot of pillows. Put it this way,
-          it took me twenty five years to get these plants, twenty five years of
-          blood sweat and tears, and I&apos;m never giving up, I&apos;m just
-          getting started. I&apos;m up to something. Fan luv.
+          <div>this is form page</div>
         </DialogBody>
         <DialogFooter>
           <Button
@@ -278,8 +271,6 @@ function Cart() {
           </Button>
         </DialogFooter>
       </Dialog>
-
-      
     </>
   );
 }
