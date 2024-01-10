@@ -1,0 +1,119 @@
+.grid-container {
+    /* background-color:blue; */
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 15vw 15vw 15vw 15vw;
+    /* // min-height: 100vh; */
+    padding: 10px;
+    gap: 2;
+  }
+  
+  .bx-1 {
+    background-color: #e67e22;
+    grid-row-start: 1;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-end: 3;
+    /* border: 5px solid black; */
+    /* border-radius: 70px; */
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+  }
+  
+  .bx-2 {
+    background-color: #3498db;
+    grid-row-start: 1;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-end: 2;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+  }
+  .bx-3 {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+    background-color: #9b59b6;
+    grid-row-start: 1;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-end: 3;
+  }
+  .bx-4 {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+    background-color: #34495e;
+    grid-row-start: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-end: 5;
+  }
+  .bx-5 {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+    background-color: #f1c40f;
+    grid-row-start: 3;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-end: 4;
+  }
+  .bx-6 {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+    background-color: black;
+    grid-row-start: 2;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-end: 4;
+  }
+  .bx-7 {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+    background-color: #e74c3c;
+    grid-row-start: 3;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-end: 5;
+  }
+  .bx-8 {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+  
+    background-color: #bdc3c7;
+    grid-row-start: 4;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-end: 5;
+  }
+  .bx img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-filter: blur(0);
+    filter: blur(0);
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+    overflow: hidden;
+    z-index: 0;
+  }
+  .bx img:hover {
+    -webkit-filter: blur(3px);
+    filter: blur(1px) brightness(0.8);
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03);
+    box-shadow: 2px 2px 2px black;
+  }
+  
+  .overlay {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.7s;
+    z-index: 2;
+  }
+  
+  .bx:hover .overlay {
+    visibility: visible;
+    opacity: 1;
+  }
+  .bx {
+    position: relative;
+    display: inline-block;
+    z-index: 0;
+  }
+  

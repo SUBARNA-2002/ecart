@@ -1,0 +1,684 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "dining-room-furniture": [
+        {
+          "id": "1",
+          "name": "Dining Table and Chair Set with 4 Chairs",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/a1fddcf6fe004b3189763bc6228fbcf2.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 34999,
+          "rating": 4.5,
+          "availability": true
+        },
+        {
+          "id": "2",
+          "name": "Dining Side Chair",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/28cb36de0ce24b4d9750e7e3467f36f7.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 2999,
+          "rating": 4.2,
+          "availability": true
+        },
+        {
+          "id": "3",
+          "name": " Triple Buffet Server",
+          "image": "https://m.media-amazon.com/images/I/71zcHkjTUNL._AC_UF1000,1000_QL80_.jpg",
+          "price": 19999,
+          "rating": 4.7,
+          "availability": true
+        },
+        {
+          "id": "4",
+          "name": "Marble Top Sideboard",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fsteve_silver%2fcolor%2fmarseille%20ms800_ms850sb-b.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 19999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "5",
+          "name": "Bar Cabinet",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/2febcdd3064c4903a1d808905e99c3ec.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 39999,
+          "rating": 4.3,
+          "availability": false
+        },
+        {
+          "id": "6",
+          "name": "Counter Height Dining Bench",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2flifestyle%2fcolor%2f1735p_c1735p-pn1-bxuml6wr0-kcbrtecyky2sa.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 12999,
+          "rating": 4.8,
+          "availability": true
+        },
+        {
+          "id": "7",
+          "name": "Bunching Display Cabinet",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/eeb067291c0e45c090aeb557a6d67fb4.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 24999,
+          "rating": 4.4,
+          "availability": true
+        },
+        {
+          "id": "8",
+          "name": "Bar Height Stools",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/39596448accb458186d6163c89a5db53.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 1399,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "9",
+          "name": "Dining Table",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/1adc4b816eed4090ac61c2abbc119f54.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 29999,
+          "rating": 4.1,
+          "availability": true
+        },
+        {
+          "id": "10",
+          "name": "Hutch Cabinet",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products/liberty_furniture/color/treasures%2017_17-cb6285%2bch6285-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 35999,
+          "rating": 4.5,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "living-room-furniture": [
+        {
+          "id": "1",
+          "name": "Sofa and Ottoman",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fsignature_design_by_ashley%2fcolor%2fstracelen_8060320%2b14-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 24999,
+          "rating": 4.5,
+          "availability": true
+        },
+        {
+          "id": "2",
+          "name": "TV Stand",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products/crown_mark/color/draper--829161581_4806-gy-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 2999,
+          "rating": 4.2,
+          "availability": true
+        },
+        {
+          "id": "3",
+          "name": "Coffee Table",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2felements_international%2fcolor%2fterri_cttr800ct-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 17999,
+          "rating": 4.7,
+          "availability": true
+        },
+        {
+          "id": "4",
+          "name": "Set of 2 Armchairs",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/581206a0d7ac52e43255d3f6bdc6a2c3/assets/b8970171426344f0b4cd705caf4dbf0e.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 15999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "5",
+          "name": "Large Bookcase",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fashley_furniture%2fcolor%2fhamlyn_h527-17-b.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 11999,
+          "rating": 4.3,
+          "availability": false
+        },
+        {
+          "id": "6",
+          "name": "Console Table",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fsignature_design_by_ashley%2fcolor%2feirdale_a4000189-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 2999,
+          "rating": 4.8,
+          "availability": true
+        },
+        {
+          "id": "7",
+          "name": "Jenton Floor Lamp",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/825e9f4c79b64550a355d4c356d34188.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 5999,
+          "rating": 4.4,
+          "availability": true
+        },
+        {
+          "id": "8",
+          "name": "Accent Chair",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/3fce4d3a5877d5a67c43888b73c95be6/assets/5cf462ef943b47d4819d132f37a0ce68.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 6999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "9",
+          "name": "78 Inch Media Console",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/906d87374ac74257be5780003e79d6df.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 24999,
+          "rating": 4.1,
+          "availability": true
+        },
+        {
+          "id": "10",
+          "name": "Accent Cabinet",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/538c4db6be9c4eb0b47dfe6fa950b7dc.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 26999,
+          "rating": 4.5,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "Office-furnitures": [
+        {
+          "id": "1",
+          "name": "Home Office Desk",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/6aca57038222451ebeeb274fbb6d9002.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 6999,
+          "rating": 4.5,
+          "availability": true
+        },
+        {
+          "id": "2",
+          "name": "Home Office Chair",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fsignature_design_by_ashley%2fcolor%2flynxtyn_h400-03a-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 3499,
+          "rating": 4.2,
+          "availability": true
+        },
+        {
+          "id": "3",
+          "name": "Bookcase",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fsignature_design_by_ashley%2fcolor%2ffrankwella_a4000286-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 2999,
+          "rating": 4.7,
+          "availability": true
+        },
+        {
+          "id": "4",
+          "name": "File Cabinet",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fashley_furniture%2fcolor%2fhamlyn_h527-12-b.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 4999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "5",
+          "name": "Computer Desk",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fashley_furniture%2fcolor%2fhamlyn_h527-26-b.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 11999,
+          "rating": 4.3,
+          "availability": false
+        },
+        {
+          "id": "6",
+          "name": "Office Storage Cabinet",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products/liberty_furniture/color/allyson%20park--816253672_417-ho147-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 12999,
+          "rating": 4.8,
+          "availability": true
+        },
+        {
+          "id": "7",
+          "name": "Desk Chair",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/72ef7626bf41485bb61ef711c5451d66.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 3999,
+          "rating": 4.4,
+          "availability": true
+        },
+        {
+          "id": "8",
+          "name": "Writing Desk",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/6f76fdaf7b9643a6a5cd3be8da26454b.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 8999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "9",
+          "name": "Standing Desk",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/ee221d890d8f40dc93c7146297774030.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 2999,
+          "rating": 4.1,
+          "availability": true
+        },
+        {
+          "id": "10",
+          "name": "Lateral File and Hutch Cabinet",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products/liberty_furniture/color/allyson%20park--816253672_417-ho147%2b35-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 12999,
+          "rating": 4.5,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "Bedroom-furniture": [
+        {
+          "id": "1",
+          "name": "King Upholstered Bed",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products/crown_mark/color/chantilly%20bed_5265gy-q-hb%2b5265gy-q-frw-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 29999,
+          "rating": 4.5,
+          "availability": true
+        },
+        {
+          "id": "2",
+          "name": "Dresser and Mirror Set",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2flegacy_classic%2fcolor%2fstafford-892579080_0420-1200%2b0200-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 13999,
+          "rating": 4,
+          "availability": true
+        },
+        {
+          "id": "3",
+          "name": "Wardrobe",
+          "image": "https://cdn.shopify.com/s/files/1/0099/2867/1291/products/JOYCE4DRLS.jpg?v=1652765606",
+          "price": 24999,
+          "rating": 4.2,
+          "availability": true
+        },
+        {
+          "id": "4",
+          "name": "Nightstand",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fbernards%2fcolor%2fcoventry-1_1988-120-budly6hh1tku37jt6kidr2q.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 7999,
+          "rating": 4.3,
+          "availability": true
+        },
+        {
+          "id": "5",
+          "name": "Chest of Drawers",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/21d8f8f58fff47ba88e857bc54220532.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 11999,
+          "rating": 4.1,
+          "availability": false
+        },
+        {
+          "id": "6",
+          "name": "King Upholstered Bed with Storage Footboard",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fsignature_design_by_ashley%2fcolor%2fraleneb594_b594-57%2b54%2b96-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 34999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "7",
+          "name": "Bedside Table",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fliberty_furniture%2fcolor%2farista%20occasional_37-ot1021-b11.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 2999,
+          "rating": 4,
+          "availability": true
+        },
+        {
+          "id": "8",
+          "name": "Ottoman",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products/fusion_furniture/color/109%20fusion_109brianne%20twilight-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 2999,
+          "rating": 4.2,
+          "availability": true
+        },
+        {
+          "id": "9",
+          "name": "Bedroom Bench",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/123d06f94b524c9caff1db2787e999c8.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 2499,
+          "rating": 4.4,
+          "availability": true
+        },
+        {
+          "id": "10",
+          "name": "Twin 5 pc Bedroom Group",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2felements_international%2fcolor%2fmoonstone_mn600-tw-5pc-bne_jznqprk-q27gy-5-avq.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 54999,
+          "rating": 4.4,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "Kids/Baby-Bedroom": [
+        {
+          "id": "1",
+          "name": "Baby Crib",
+          "image": "https://www.ikea.com/us/en/images/products/sundvik-crib-white__1044543_pe842216_s5.jpg?f=s",
+          "price": 11999,
+          "rating": 4.5,
+          "availability": true
+        },
+        {
+          "id": "2",
+          "name": "Changing Table",
+          "image": "https://images-cdn.ubuy.co.id/63c930336c86ba5f1f33ddd9-lovinouse-baby-changing-table-with.jpg",
+          "price": 7999,
+          "rating": 4.2,
+          "availability": true
+        },
+        {
+          "id": "3",
+          "name": "Rocking Chair",
+          "image": "https://img.fruugo.com/product/3/48/153007483_max.jpg",
+          "price": 7999,
+          "rating": 4.7,
+          "availability": true
+        },
+        {
+          "id": "4",
+          "name": "Baby Dresser",
+          "image": "https://secure.img1-fg.wfcdn.com/im/44911932/resize-h755-w755%5Ecompr-r85/1558/155838670/Deborah+Changing+Table+Dresser.jpg",
+          "price": 11999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "5",
+          "name": "Baby High Chair",
+          "image": "https://m.media-amazon.com/images/I/617uy6OWcAL.jpg",
+          "price": 6499,
+          "rating": 4.3,
+          "availability": false
+        },
+        {
+          "id": "6",
+          "name": "Baby Swing",
+          "image": "https://www.nepal.ubuy.com/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFJYmh3RTVHTUwuX0FDX1NMMTUwMF8uanBn.jpg",
+          "price": 9999,
+          "rating": 4.8,
+          "availability": true
+        },
+        {
+          "id": "7",
+          "name": "Baby Bouncer",
+          "image": "https://images-eu.ssl-images-amazon.com/images/I/51WXLEfz-HL.jpg",
+          "price": 6999,
+          "rating": 4.4,
+          "availability": true
+        },
+        {
+          "id": "8",
+          "name": "Baby Playpen",
+          "image": "https://www.nepal.ubuy.com/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzExU2VoWHFvQkwuX1NMMTUwMF8uanBn.jpg",
+          "price": 4999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "9",
+          "name": "Nursery Glider",
+          "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/a8f82d6ced64d1fc3fb9aa2f506534fa5b6f8444/Hoop-Nursery-Glider-and-Ottoman.jpg",
+          "price": 8999,
+          "rating": 4.1,
+          "availability": true
+        },
+        {
+          "id": "10",
+          "name": "Baby Cradle",
+          "image": "https://www.chennaichairs.com/images/thumbs/0008890_prisma-rattan-baby-cradle_625.webp",
+          "price": 6499,
+          "rating": 4.5,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "Outdoor-Furniture": [
+        {
+          "id": "1",
+          "name": "Patio Dining Set",
+          "image": "https://i.ebayimg.com/images/g/KSkAAOSwvF1jNVSv/s-l1600.jpg",
+          "price": 6999,
+          "rating": 4.5,
+          "availability": true
+        },
+        {
+          "id": "2",
+          "name": "Outdoor Sofa",
+          "image": "https://global-uploads.webflow.com/5e93308b2af0f955a9a2e796/62b0a3f9242b564a6b964543_outer-wicker-set.jpg",
+          "price": 9999,
+          "rating": 4.2,
+          "availability": true
+        },
+        {
+          "id": "3",
+          "name": "Garden Bench",
+          "image": "https://www.therange.co.uk/media/5/3/1620380887_12_3169.jpg",
+          "price": 2999,
+          "rating": 4.7,
+          "availability": true
+        },
+        {
+          "id": "4",
+          "name": "2 pc Sun Lounger",
+          "image": "https://mazeliving.co.uk/media/catalog/product/cache/d38a3cd8136976368e38702f8e3f667e/a/m/amalfi-sunlounger-sets-_13__1.jpg",
+          "price": 12999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "5",
+          "name": "5 pc Outdoor Dining Set",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/a1e18853-5f6b-4575-b42b-6c376b416583/assets/0684bfa9eda14d15b5664d7defdb3607.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 9999,
+          "rating": 4.3,
+          "availability": false
+        },
+        {
+          "id": "6",
+          "name": "Hammock",
+          "image": "https://img.zcdn.com.au/lf/50/hash/25969/19120260/4/Natural+Fringed+Double+Cotton+Hammock+with+Stand.jpg",
+          "price": 2499,
+          "rating": 4.8,
+          "availability": true
+        },
+        {
+          "id": "7",
+          "name": "Patio Umbrella",
+          "image": "https://www.realsimple.com/thmb/E2iJmams0Pouk2STFWI3D0NfsQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Web_1500-RSP_Le-Papillon-15-ft-Market-Outdoor-Umbrella_DB_012_2-c1a70021e84f4336a16537d3309392e6.jpg",
+          "price": 1499,
+          "rating": 4.4,
+          "availability": true
+        },
+        {
+          "id": "8",
+          "name": "Outdoor Bar Set",
+          "image": "https://cpimg.tistatic.com/05085894/b/4/Outdoor-Dinning-Table-Set.jpg",
+          "price": 12999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "9",
+          "name": "Outdoor Lounge Chair witn Cushion",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fsignature_design_by_ashley%2fcolor%2fbyron%20bay%20sd_p285-815-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 3999,
+          "rating": 4.1,
+          "availability": true
+        },
+        {
+          "id": "10",
+          "name": "Garden Swing",
+          "image": "https://images.thdstatic.com/productImages/e9a99169-4d38-4dd8-af69-c82245ed7248/svn/aecojoy-patio-swings-16093br-hd01-64_600.jpg",
+          "price": 19999,
+          "rating": 4.5,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "Entertainment-Center": [
+        {
+          "id": "1",
+          "name": "TV Stand",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products/signature_design_by_ashley/color/wynnloww440_w440-68-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 24999,
+          "rating": 4.5,
+          "availability": true
+        },
+        {
+          "id": "2",
+          "name": "Media Console",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products/crown_mark/color/calhoun--829161581_b3000-7-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 24999,
+          "rating": 4.2,
+          "availability": true
+        },
+        {
+          "id": "3",
+          "name": "Entertainment Wall Unit",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products%2fsignature_design_by_ashley%2fcolor%2fhavalance_w814-33%2b30%2b34%2b35-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 34999,
+          "rating": 4.7,
+          "availability": true
+        },
+        {
+          "id": "4",
+          "name": "Entertainment Center with Fireplace Insert",
+          "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/img/products/signature_design_by_ashley/color/willowton%20w267_w267-68%2bw100-101%2b2xw267-24%2b27-b1.jpg?format=webp&quality=85&width=450&height=450&scale=both&trim.threshold=20",
+          "price": 39999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "5",
+          "name": "TV Cabinet",
+          "image": "https://www.stylespafurniture.com/wp-content/uploads/2020/03/Strata-TV-unit-1.jpg",
+          "price": 29999,
+          "rating": 4.3,
+          "availability": false
+        },
+        {
+          "id": "6",
+          "name": "Floating TV Shelf",
+          "image": "https://www.homestratosphere.com/wp-content/uploads/2018/05/way-minimalist-floating-TV-shelf-053018.jpg",
+          "price": 6999,
+          "rating": 4.8,
+          "availability": true
+        },
+        {
+          "id": "7",
+          "name": "TV Wall Mount",
+          "image": "https://cdn.shopify.com/s/files/1/0617/8465/4075/products/1_1d31df79-de6c-4849-94cc-257c6b6be842_2400x.jpg?v=1645452736",
+          "price": 799,
+          "rating": 4.4,
+          "availability": true
+        },
+        {
+          "id": "8",
+          "name": "Media Storage Tower",
+          "image": "https://i5.walmartimages.com/asr/4181cda2-1a84-4205-bb29-dd3cbf7ee938.36f92a0912c561714a5d170c233ea12c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+          "price": 2999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "9",
+          "name": "Corner TV Stand",
+          "image": "https://mobileimages.lowes.com/productimages/2bd0468d-d70c-4f60-944e-59957c89efeb/63869082.jpg",
+          "price": 2499,
+          "rating": 4.1,
+          "availability": true
+        },
+        {
+          "id": "10",
+          "name": "TV Console Table",
+          "image": "https://i5.walmartimages.com/asr/35ffb6f6-7866-40b9-a368-295749e5e888.229d0e8c76e79f75e8ca1a33543a959b.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+          "price": 3499,
+          "rating": 4.5,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "Wall-Art": [
+        {
+          "id": "1",
+          "name": "Abstract Canvas Art",
+          "image": "https://images.squarespace-cdn.com/content/v1/54ecfc32e4b0866fef096797/1631034943237-PAKZ11LEA14F6EEJL894/3-Background-Washes-2.jpg",
+          "price": 1999,
+          "rating": 4.5,
+          "availability": true
+        },
+        {
+          "id": "2",
+          "name": "Landscape Wall Art",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/51pb8zCjf4L._SS372_.jpg",
+          "price": 7999,
+          "rating": 4.2,
+          "availability": true
+        },
+        {
+          "id": "3",
+          "name": "Metal Wall Sculpture",
+          "image": "https://images-cdn.ubuy.co.in/633ab5292462360beb1e7577-home-decor-metal-wall-art-leaves-modern.jpg",
+          "price": 6499,
+          "rating": 4.7,
+          "availability": true
+        },
+        {
+          "id": "4",
+          "name": "Typography Print",
+          "image": "https://cdn11.bigcommerce.com/s-svfxpg7qwk/images/stencil/590x590/products/67656/144631/ARTQTPR803__29061.1587134326.jpg?c=1",
+          "price": 2999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "5",
+          "name": "Botanical Illustration",
+          "image": "https://i.etsystatic.com/12952670/r/il/ae808f/3192678662/il_500x500.3192678662_2dlr.jpg",
+          "price": 2499,
+          "rating": 4.3,
+          "availability": false
+        },
+        {
+          "id": "6",
+          "name": "Modern Art Poster",
+          "image": "https://images-cdn.ubuy.co.in/641b08e7a093533fdc7978c8-hitecera-art-poster-modern-art-girl.jpg",
+          "price": 5999,
+          "rating": 4.8,
+          "availability": true
+        },
+        {
+          "id": "7",
+          "name": "Framed Photography",
+          "image": "https://www.printique.com/wp-content/uploads/2018/12/framed-wall-decor-crop.jpg",
+          "price": 4499,
+          "rating": 4.4,
+          "availability": true
+        },
+        {
+          "id": "8",
+          "name": "Abstract Metal Art",
+          "image": "https://www.thesculptureroom.co.uk/storage/images/image?remote=https%3A%2F%2Fwww.thesculptureroom.co.uk%2FWebRoot%2FepagesUK%2FShops%2FBT4193%2F633D%2F6C42%2F6372%2F341B%2F1AB2%2F0A0C%2F05B8%2F85C0%2Flarge_picasso_style_art.jpg&shop=bt4193&width=600&height=2560",
+          "price": 8999,
+          "rating": 4.6,
+          "availability": true
+        },
+        {
+          "id": "9",
+          "name": "Vintage Wall Decor",
+          "image": "https://i.etsystatic.com/13065816/r/il/d8e65d/3024777331/il_1080xN.3024777331_mi0m.jpg",
+          "price": 7999,
+          "rating": 4.1,
+          "availability": true
+        },
+        {
+          "id": "10",
+          "name": "Canvas Print Set",
+          "image": "https://m.media-amazon.com/images/I/81xKH1NfE1L._AC_UF350,350_QL80_.jpg",
+          "price": 6499,
+          "rating": 4.5,
+          "availability": true
+        }
+      ]
+    }
+  ]
+}
